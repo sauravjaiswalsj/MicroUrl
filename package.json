@@ -1,0 +1,18 @@
+{
+  "name": "microlink",
+  "version": "1.0.0",
+  "description": "url shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sauravjaiswalsj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nanoid": "^2.1.11",
+    "sequelize": "^6.32.0",
+    "sqlite3": "^5.1.6"
+  }
+}
